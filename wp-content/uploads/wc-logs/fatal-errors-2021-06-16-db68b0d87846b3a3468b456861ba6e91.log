@@ -1,0 +1,12 @@
+2021-06-16T13:31:45+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementskit-lite/widgets/piechart/piechart.php on line 5
+
+2021-06-16T13:32:09+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor-pro/modules/slides/widgets/slides.php on line 1061
+
+2021-06-16T13:32:26+00:00 CRITICAL Uncaught Error: Class 'WP_Query' not found in /home/ntebogangtech/public_html/bomra_wp/wp-settings.php:444
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-cron.php(44): require_once('/home/ntebogang...')
+#3 {main}
+  thrown in /home/ntebogangtech/public_html/bomra_wp/wp-settings.php on line 444
+

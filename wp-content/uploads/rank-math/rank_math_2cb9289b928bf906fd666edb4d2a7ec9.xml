@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bomra.developer.co.bw/main-sitemap.xsl"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Botswana Medical Regulatory Authority (BoMRA)</name>
+		<open>1</open>
+		<Folder>
+			<atom:link href="https://bomra.developer.co.bw" />
+			<Placemark>
+				<name><![CDATA[Botswana Medical Regulatory Authority (BoMRA)]]></name>
+				<description><![CDATA[Botswana Medical Regulatory Authority - Botswana Medical Regulatory Authority (BoMRA)]]></description>
+				<address><![CDATA[]]></address>
+				<phoneNumber><![CDATA[+267 373 1720]]></phoneNumber>
+				<atom:link href="https://bomra.developer.co.bw"/>
+				<LookAt>
+					<altitude>0</altitude>
+					<range></range>
+					<tilt>0</tilt>
+				</LookAt>
+				<Point>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

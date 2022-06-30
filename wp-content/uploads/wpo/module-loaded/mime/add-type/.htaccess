@@ -1,0 +1,6 @@
+<IfModule mod_mime.c>
+    AddType image/gif .test
+</IfModule>
+<IfModule !mod_mime.c>
+    AddType image/jpeg .test
+</IfModule>

@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+    AddType image/gif .test
+</IfModule>
+<IfModule !mod_headers.c>
+    AddType image/jpeg .test
+</IfModule>

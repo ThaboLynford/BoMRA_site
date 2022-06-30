@@ -1,0 +1,12 @@
+.et-fb-form__group {
+    position: relative;
+    width: 100%;
+    margin: 0 0 20px;
+    box-sizing: border-box;
+}
+.et-fb-form__group > .et-fb-settings-options.et-fb-option--yes-no_button {
+    position: absolute;
+    right: 0;
+    transform: translateY(-50%);
+    top: 50%;
+}

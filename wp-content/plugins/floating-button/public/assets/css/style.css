@@ -1,0 +1,219 @@
+/*! ========= INFORMATION ============================
+	- document:  Float Button
+	- author:    Wow-Company
+	- url:       https://wow-estore.com/item/floating-button-pro/
+==================================================== */
+
+.flBtn {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  text-decoration: none;
+}
+.flBtn ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  text-decoration: none;
+}
+
+/*Basic style*/
+.flBtn {
+  position: fixed;
+  z-index: 1000;
+  /* ToolTip */
+}
+.flBtn input {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.flBtn input:checked ~ ul {
+  visibility: visible;
+}
+.flBtn input:checked ~ ul li {
+  visibility: visible;
+  opacity: 1;
+}
+
+.flBtn input:hover + a {
+  color: #383838;
+  background: #4db6ac;
+}
+.flBtn input:hover + a[data-tooltip]:before {
+  visibility: visible;
+  opacity: 1;
+}
+.flBtn a {
+  position: relative;
+  z-index: 2;
+  display: block;
+  vertical-align: middle;
+  text-decoration: none;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  background: #009688;
+  color: #ffffff;
+  transition: background 0.5s;
+  -o-transition: background 0.5s;
+  -ms-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+  -webkit-transition: background 0.5s;
+}
+.flBtn a:hover {
+  color: #383838;
+  background: #4db6ac;
+}
+.flBtn ul {
+  position: absolute;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
+}
+.flBtn ul li {
+  display: inline-block;
+  margin: 5px;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+.flBtn [data-tooltip]:before {
+  position: absolute;
+  content: attr(data-tooltip);
+  visibility: hidden;
+  opacity: 0;
+  padding: 0 10px;
+  white-space: nowrap;
+  background: rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+  transition: all 0.5s;
+}
+.flBtn [data-tooltip]:hover:before {
+  visibility: visible;
+  opacity: 1;
+}
+
+/************
+ Button Size
+ ***********/
+
+/* medium */
+.flBtn-size-medium a {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 24px;
+}
+.flBtn-size-medium ul a {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+}
+.flBtn-size-medium [data-tooltip]:before {
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+
+/*************
+ Shape style
+ ************/
+/*circle*/
+.flBtn-shape-circle a {
+  border-radius: 50%;
+}
+
+/****************
+ Main position
+ ***************/
+/*position bottom right*/
+.flBtn-position-br {
+  bottom: 20px;
+  right: 20px;
+}
+.flBtn-position-br [data-tooltip][data-role]:before {
+  right: 100%;
+  bottom: 100%;
+}
+.flBtn-position-br .flBtn-first {
+  right: 50%;
+  transform: translateX(50%);
+  bottom: 100%;
+}
+.flBtn-position-br .flBtn-first [data-tooltip]:before {
+  right: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-right: 5px;
+}
+.flBtn-position-br .flBtn-second {
+  display: flex;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 100%;
+}
+.flBtn-position-br .flBtn-second [data-tooltip]:before {
+  right: 100%;
+  bottom: 100%;
+  margin-bottom: 5px;
+}
+
+.flBtn-screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+@media print {
+  .flBtn {
+    display: none;
+  }
+}
+
+/* Many screen reader and browser combinations announce broken words as they would appear visually. */
+.flBtn-screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+}

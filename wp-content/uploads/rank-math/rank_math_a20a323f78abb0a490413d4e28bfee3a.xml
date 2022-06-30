@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bomra.developer.co.bw/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://bomra.developer.co.bw/events/</loc>
+		<lastmod>2022-02-16T01:24:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/events/new-look-introduction-725/</loc>
+		<lastmod>2022-02-16T01:24:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/events/new-look-introduction/</loc>
+		<lastmod>2022-02-16T00:52:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/events/vmp-stakeholder-engagement/</loc>
+		<lastmod>2021-06-23T09:41:24+00:00</lastmod>
+	</url>
+</urlset>

@@ -1,0 +1,80 @@
+#md-icons-dashboard {
+  visibility: hidden;
+
+  &.is-mounted {
+    visibility: visible;
+  }
+}
+
+.md-icons-main-section {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.md-icons-generated-shortcode {
+  position: relative;
+  display: block;
+  margin: 20px;
+  padding: 10px 40px 10px 10px;
+  font-size: 15px;
+  line-height: 20px;
+
+  &__copy {
+    position: absolute;
+    top: 4px;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 8px;
+    cursor: pointer;
+
+    &:hover {
+      svg {
+        fill: #007cba;
+      }
+    }
+
+    svg {
+      width: 22px;
+      height: 22px;
+    }
+  }
+}
+
+.cx-vui-iconpicker__preview {
+  font-size: 20px;
+}
+
+.cx-vui-iconpicker__canvas-icon {
+  font-size: 24px;
+}
+
+.md-icons-banner {
+
+  &--side {}
+
+  a {
+    display: inline-block;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  img {
+    vertical-align: top;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.md-icons-promo-section {}
+
+.md-icons-promo {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+
+  &__item {}
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bomra.developer.co.bw/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://bomra.developer.co.bw/?elementskit_template=bomra-hearder</loc>
+		<lastmod>2022-06-24T12:15:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2022/02/BoMRA-Covi-19-Updates-red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2021/06/BoMRA-____Logo.png</image:loc>
+			<image:caption><![CDATA[BoMRA Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2021/06/BoMRA-____Logo.png</image:loc>
+			<image:caption><![CDATA[BoMRA Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2021/06/BoMRA-____Logo.png</image:loc>
+			<image:caption><![CDATA[BoMRA Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2021/05/BoMRA-Covi-19-Updates.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/?elementskit_template=bomra-footer-current</loc>
+		<lastmod>2022-05-19T13:51:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2021/05/BoMRA_Logo.png</image:loc>
+			<image:caption><![CDATA[BoMRA Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2022/02/BSI.jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://bomra.developer.co.bw/wp-content/uploads/2022/02/BoMRA-QR-Code.svg</image:loc>
+			<image:caption><![CDATA[BoMRA QR Code]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/?elementskit_template=bomra-footer</loc>
+		<lastmod>2022-02-12T14:09:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/?elementskit_template=bomra-hearder-2</loc>
+		<lastmod>2022-02-11T16:47:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bomra.developer.co.bw/?elementskit_template=bomra-footer-2</loc>
+		<lastmod>2021-09-24T09:42:33+00:00</lastmod>
+	</url>
+</urlset>

@@ -1,0 +1,50 @@
+/****** YASR USER REVIEWS ********/
+
+
+.yasr-pro-loader-update-vote-comment {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/** Title **/
+
+.yasr-pro-rating-comment-title {
+    display: block;
+    margin-bottom: 7px;
+}
+
+.yasr-pro-rating-comment-body {
+    margin-bottom: 7px;
+}
+
+.yasr-pro-visitor-title-editable-span {
+    display: block;
+}
+
+.yasr-pro-visitor-title-editable {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.yasr-pro-hidden-form-visitor-title-span {
+    display: none;
+    margin-right: 10px;
+}
+
+.yasr-pro-hidden-form-visitor-title {
+    margin-right: 10px;
+}
+
+#yasr-pro-visitor-review-title {
+    margin-top: 10px;
+}
+
+.ratingcommenteditable{
+    margin-bottom: 10px;
+}
+
+.yasr-container-custom-text-comments-rating {
+    display: inline-block;
+}
+
+/**** END YASR USER REVIEWS ****/

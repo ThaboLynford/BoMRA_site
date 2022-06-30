@@ -1,0 +1,66 @@
+2021-06-23T14:25:32+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/clever-mega-menu-pro-for-elementor/includes/meta/menu-theme.php on line 1639
+
+2021-06-23T14:26:00+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/themes/strata/extendvc/extend-vc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/themes/strata/functions.php on line 673
+
+2021-06-23T14:26:01+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/themes/strata/extendvc/extend-vc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/themes/strata/functions.php on line 673
+
+2021-06-23T15:30:10+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:579
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(499): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 {main in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 579
+
+2021-06-23T15:30:10+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:579
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(499): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 {main in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 579
+
+2021-06-23T15:30:10+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:579
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(499): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 {main in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 579
+
+2021-06-23T15:30:10+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:579
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(499): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 {main in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 579
+
+2021-06-23T15:30:10+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:579
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(499): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 {main in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 579
+

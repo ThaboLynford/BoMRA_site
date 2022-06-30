@@ -1,0 +1,12 @@
+.vc_shortcode-param input[name="content"] {
+  display: none;
+}
+
+div[data-vc-shortcode="wpfd_search_shortcode"] {
+  select {
+    max-width: 100%;
+  }
+  [data-vc-shortcode-param-name="wpfd_filter_by_category"] {
+    padding-top: 0 !important;
+  }
+}

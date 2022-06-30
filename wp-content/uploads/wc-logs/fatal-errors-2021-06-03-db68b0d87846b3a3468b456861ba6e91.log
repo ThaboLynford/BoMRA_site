@@ -1,0 +1,25 @@
+2021-06-03T07:16:16+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Config' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/jetpack/class.jetpack.php:825
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Jetpack->configure('')
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(423): do_action('plugins_loaded')
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-blog-header.php(13): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/index.php(17): require('/home/ntebogang...')
+#8 {main}
+  thrown in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/jetpack/class.jetpack.php on line 825
+
+2021-06-03T20:45:04+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Experiments\Manager' not found in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php:595
+Stack trace:
+#0 /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php(537): Elementor\Plugin->init_components()
+#1 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(292): Elementor\Plugin->init('')
+#2 /home/ntebogangtech/public_html/bomra_wp/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ntebogangtech/public_html/bomra_wp/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/ntebogangtech/public_html/bomra_wp/wp-settings.php(560): do_action('init')
+#5 /home/ntebogangtech/public_html/bomra_wp/wp-config.php(90): require_once('/home/ntebogang...')
+#6 /home/ntebogangtech/public_html/bomra_wp/wp-load.php(37): require_once('/home/ntebogang...')
+#7 /home/ntebogangtech/public_html/bomra_wp/wp-admin/admin-ajax.php(22): require_once('/home/ntebogang...')
+#8 in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/plugin.php on line 595
+

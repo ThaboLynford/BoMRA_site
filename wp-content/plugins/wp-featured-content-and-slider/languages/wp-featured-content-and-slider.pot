@@ -1,0 +1,408 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Featured Content and Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 11:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:31
+msgid "20+. In lite version only 4 design."
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:23
+msgid "3 (Icon , Image , Icon and Image). In lite version only 2 layout."
+msgstr ""
+
+#: includes/wpfcas-post-types.php:24 includes/wpfcas-post-types.php:25
+msgid "Add Content"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:75
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:70
+msgid "All Category"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:28
+msgid "All Content"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:93
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:55
+msgid "Arrange your desired slides with your desired order and display."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:155
+msgid "Boost Design"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:154
+msgid "Boost design and best solution for your website."
+msgstr ""
+
+#: includes/wpfcas-post-types.php:77
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-wpfcas-admin.php:141
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:107
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/wpfcas-functions.php:113
+msgid "Design 1"
+msgstr ""
+
+#: includes/wpfcas-functions.php:114
+msgid "Design 2"
+msgstr ""
+
+#: includes/wpfcas-functions.php:115
+msgid "Design 3"
+msgstr ""
+
+#: includes/wpfcas-functions.php:116
+msgid "Design 4"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:98
+msgid "Design and grid parameters"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:28
+msgid "Designs "
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:71
+msgid ""
+"Do not display the featured post & Do not display the featured post for "
+"particular categories."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:104
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:52
+msgid "Drag & Drop Slide Order Change "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display what features your company, product or service "
+"offers, using our shortcode OR template code. Also work with Gutenberg "
+"shortcode block."
+msgstr ""
+
+#: includes/wpfcas-post-types.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:26
+msgid "Edit Content"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-sett-metabox.php:40
+msgid ""
+"Enter read more link. You can add external link also. ie http://www.google."
+"com"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:68
+msgid "Exclude Featured Post and Exclude Some Categories "
+msgstr ""
+
+#: includes/wpfcas-post-types.php:34
+msgid "Featured Content"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:96
+msgid "Featured Content Grid Shortcode"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-sett-metabox.php:25
+msgid "Featured Content Icon"
+msgstr ""
+
+#: includes/admin/class-wpfcas-admin.php:66
+msgid "Featured Content Settings"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:97
+msgid "Featured Content Slider Shortcode"
+msgstr ""
+
+#: includes/shortcode/wpfcas-slider.php:23
+#: includes/shortcode/wpfcas-slider.php:31
+msgid "Featured Slider - Shortcode"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-sett-metabox.php:29
+msgid "For example : fa fa-bluetooth-b"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-sett-metabox.php:30
+msgid ""
+"Get icon class details : <a href=\"https://fontawesome.com/v4.7.0/icons/\" "
+"target=\"_blank\"> Font Awesome</a>"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:66
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:206
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:63
+msgid ""
+"Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual "
+"Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:118
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:168
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:126
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:23
+#: includes/admin/settings/wpfcas-how-it-work.php:35
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:23
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:81
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/wp-featured-content-and-"
+"slider/"
+msgstr ""
+
+#: wp-featured-content-and-slider.php:164
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:20
+msgid "Layouts "
+msgstr ""
+
+#: includes/admin/class-wpfcas-admin.php:69
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:146
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:27
+msgid "New Content"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:31
+msgid "No Content found"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:32
+msgid "No Content found in Trash"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:60
+msgid "Page Builder Support "
+msgstr ""
+
+#: includes/wpfcas-post-types.php:71
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:72
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:47
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required."
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:36
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:44
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:52
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:60
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:68
+msgid "PRO"
+msgstr ""
+
+#: templates/design-1.php:52 templates/design-3.php:51
+#: templates/design-2.php:52 templates/design-4.php:52
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-sett-metabox.php:36
+msgid "Read More Link"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:69
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:30
+msgid "Search Content"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:99
+msgid "Shortcode also work with custom post type"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:44
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:85
+msgid ""
+"Step-1. Create a page like Featured Content OR add the shortcode in a page."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:70
+msgid "Step-1. Go to \"Featured Content --> Add conetnt tab\"."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:130
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:71
+msgid ""
+"Step-2. Add Title, description and image as a featured image OR Add Font "
+"Awesome (If not adding Featured Image)."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:86
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:131
+msgid "Step-2. Search \"Featured Post\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:132
+msgid ""
+"Step-3. Add any block of featured post and you will find its relative "
+"options on the right end side."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:72
+msgid ""
+"Step-3. To display multiple, Create category under \"Featured Content -->"
+"category\" and add Featured Content to respective categories."
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:73
+msgid "Step-4. Use category shortcode under \"Featured Content -->category\""
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:74
+msgid "Step-5. Plugin alos work with custom post type"
+msgstr ""
+
+#: wp-featured-content-and-slider.php:163
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:74
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-wpfcas-admin.php:45
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wpfcas-admin.php:45
+msgid "Upgrade to PRO - WP Featured Content and Slider"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:185
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/wpfcas-post-types.php:29
+msgid "View Content"
+msgstr ""
+
+#: includes/admin/settings/wpfcas-how-it-work.php:207
+msgid "View PRO Demo "
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Featured Content and Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "WP Featured Content and Slider with "
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:36
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:208
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/metabox/wpfcas-post-setting-metabox-pro.php:39
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""

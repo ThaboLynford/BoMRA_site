@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    AddType image/gif .test
+</IfModule>
+<IfModule !mod_rewrite.c>
+    AddType image/jpeg .test
+</IfModule>

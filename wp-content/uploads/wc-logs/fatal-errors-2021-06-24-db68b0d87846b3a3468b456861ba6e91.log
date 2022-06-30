@@ -1,0 +1,10 @@
+2021-06-24T13:48:33+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/elementor/includes/elements/section.php on line 472
+
+2021-06-24T13:49:28+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/public/cart.class.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/ti-woocommerce-wishlist.php on line 201
+
+2021-06-24T13:49:28+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/public/cart.class.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/ti-woocommerce-wishlist.php on line 201
+
+2021-06-24T13:49:28+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/public/cart.class.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/ti-woocommerce-wishlist.php on line 201
+
+2021-06-24T13:49:28+00:00 CRITICAL require_once(): Failed opening required '/home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/public/cart.class.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ntebogangtech/public_html/bomra_wp/wp-content/plugins/ti-woocommerce-wishlist/ti-woocommerce-wishlist.php on line 201
+

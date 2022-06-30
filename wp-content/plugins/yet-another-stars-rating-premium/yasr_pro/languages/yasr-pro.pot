@@ -1,0 +1,556 @@
+# Copyright (C) 2019 freemius
+# This file is distributed under the same license as the freemius package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yasr Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Dario Curvino\n"
+"Last-Translator: Vova Feldman <vova@freemius.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/Freemius/wordpress-sdk/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/classes/YasrProEditCategory.php:44
+msgid "Select default itemType"
+msgstr ""
+
+#: admin/classes/YasrProEditCategory.php:56
+msgid "Check to update YASR itemType"
+msgstr ""
+
+#: admin/classes/YasrProEditCategory.php:61
+msgid "This will overwrite YASR itemType in all existing posts or pages for this category "
+msgstr ""
+
+#: admin/editor/YasrProFakeRatings.php:54
+msgid "Add fake ratings"
+msgstr ""
+
+#: admin/editor/YasrProFakeRatings.php:57
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:119
+msgid "Number of votes"
+msgstr ""
+
+#: admin/editor/YasrProFakeRatings.php:71
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:85
+msgid "Rating:"
+msgstr ""
+
+#: admin/editor/YasrProFakeRatings.php:91
+msgid "This will add ratings for yasr_visitor_votes shortcode."
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:46
+msgid "Author"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:47
+msgid "Reviews"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:79
+msgid "Problem while retriving the most active reviewers chart. Did you published any review?"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:118
+msgid "UserName"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProNoStarsRankings.php:154
+msgid "Problem while retrieving the top 10 active users chart. Are you sure you have votes to show?"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProRankings.php:323
+#: yasr-custom-rankings/classes/YasrProRankings.php:338
+#: yasr-user-reviews/yasr-ur-shortcode.php:162
+#: yasr-user-reviews/yasr-ur-shortcode.php:192
+msgid "Post / Page"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProRankings.php:324
+#: yasr-custom-rankings/classes/YasrProRankings.php:339
+#: yasr-user-reviews/yasr-ur-shortcode.php:163
+#: yasr-user-reviews/yasr-ur-shortcode.php:193
+msgid "Order By"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProRankings.php:326
+#: yasr-custom-rankings/classes/YasrProRankings.php:341
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:259
+#: yasr-user-reviews/yasr-ur-shortcode.php:163
+#: yasr-user-reviews/yasr-ur-shortcode.php:193
+msgid "Most Rated"
+msgstr ""
+
+#: yasr-custom-rankings/classes/YasrProRankings.php:329
+#: yasr-custom-rankings/classes/YasrProRankings.php:344
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:260
+#: yasr-user-reviews/yasr-ur-shortcode.php:163
+#: yasr-user-reviews/yasr-ur-shortcode.php:193
+msgid "Highest Rated"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-actions.php:15
+msgid "Custom Rankings"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-actions.php:28
+msgid "Click here"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-actions.php:30
+msgid "to generate your custom rankings"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-actions.php:72
+msgid "Rankings"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:17
+msgid "Build Overall Rating Ranking"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:21
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:211
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:445
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:518
+msgid "Show Options"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:24
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:214
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:448
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:521
+msgid "Hide Options"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:31
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:222
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:456
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:528
+msgid "How many rows do you want to display?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:53
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:243
+msgid "Size"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:67
+msgid "Show text before or after the stars?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:69
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:97
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:154
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:321
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:379
+msgid "No"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:70
+msgid "Yes, before the stars"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:71
+msgid "Yes, after the stars"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:81
+msgid "Text to show"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:95
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:319
+msgid "Do you want to specify a category?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:98
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:155
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:322
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:380
+msgid "Yes"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:113
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:336
+msgid "Search Categories:"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:152
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:377
+msgid "Do you want to specify a custom post type?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:185
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:413
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:489
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:562
+msgid "Create Shortcode"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:189
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:418
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:493
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:566
+msgid "This is the shortcode you've just created: paste it in the post or page where you want to make it appears"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:197
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:426
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:501
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:572
+msgid "Copy Shortcode"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:208
+msgid "Build Visitor Votes Ranking"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:257
+msgid "Choose default view?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:274
+msgid "Number of minimum votes for most rated page"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:296
+msgid "Number of minimum votes for highest rated page"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:441
+msgid "Build Most Active Reviewers Ranking"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:475
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:547
+msgid "Do you want to use Username or Display Name?"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:477
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:549
+msgid "Username"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:478
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:550
+msgid "User display name"
+msgstr ""
+
+#: yasr-custom-rankings/yasr-cr-settings-functions.php:515
+msgid "Build Most Active Users Ranking"
+msgstr ""
+
+#: yasr-pro-functions.php:155
+msgid "You're using YASR Pro!"
+msgstr ""
+
+#: yasr-pro-functions.php:160 yasr-user-reviews/yasr-ur-settings.php:231
+msgid "Help"
+msgstr ""
+
+#: yasr-pro-functions.php:169
+msgid "Skype support"
+msgstr ""
+
+#: yasr-pro-functions.php:176
+msgid "Facebook support"
+msgstr ""
+
+#: yasr-pro-functions.php:183
+msgid "Slack support"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:13
+#, php-format
+msgid "Custom Star Set %s"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:21
+#, php-format
+msgid "Choose Stars Set %s"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:43
+msgid "Upload Custom Icons"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:47
+msgid "\"Off\" image"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:59 yasr-stylish/yasr-st-settings.php:74
+msgid "Upload"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:63
+msgid "\"Active\" image"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:80
+#, php-format
+msgid "%s (You need a plugin like %s to upload it). %s Aspect ratio must be 1:1 and width x height at least 32x32"
+msgstr ""
+
+#: yasr-stylish/yasr-st-settings.php:138
+msgid "Save Settings"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:32
+msgid "Reviews in comments for this post / page are ENABLED"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:34
+msgid "Reviews in comments for this post / page are DISABLED"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:105
+#: yasr-user-reviews/yasr-ur-actions.php:316
+msgid "User Reviews"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:124
+msgid "Insert Progress Bars"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:128
+msgid "Insert Progress Bars stats"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:129
+msgid "Insert progress bars statistics for review in comments"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:134
+msgid "Insert Average Rating"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:138
+msgid "Insert Stars Average"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:139
+msgid "Insert the average (in stars) of all ratings in comments"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:142
+msgid "Choose Size"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:147
+msgid "Small"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:150
+msgid "Medium"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:153
+msgid "Large"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:162
+msgid "Ranking from reviews"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:166
+msgid "Insert Ranking From Reviews"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:167
+msgid "Show up a ranking build from the reviews"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-actions.php:339
+msgid "Save"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-ajax.php:30
+#, php-format
+msgid "New vote is %d"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-ajax.php:33 yasr-user-reviews/yasr-ur-ajax.php:77
+msgid "Something goes wrong"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-ajax.php:60
+msgid "Title must be at least 2 chars"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-ajax.php:65
+msgid "Title must be shorter than 100 chars"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-ajax.php:74
+msgid "Title Updated"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:111
+msgid "If you want to leave a review, please"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:112
+msgid "Login"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:114
+msgid "or"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:115
+msgid "Register"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:117
+msgid "first."
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:128
+msgid "Add your own review"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:153
+msgid "Rating"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:165
+msgid "Title of your review"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:171
+msgid "You've rated:"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:259
+msgid "Please insert a title for the review"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:285
+msgid "Please insert the rating for this review"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:342
+msgid "Loading, please wait"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:350
+msgid "Edit Title"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:355
+msgid "Update"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-comment-form-functions.php:357
+msgid "Undo"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:31
+msgid "Yasr User Reviews Options"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:36
+msgid "Reviews In Comments Options"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:43
+msgid "Insert custom text to show after yasr_pro_average_comments_ratings shortcode"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:61
+msgid "Allow anonymous?"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:80
+msgid "Size?"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:97
+msgid "Enable on every post and page?"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:121
+msgid "By enabling this, in every comment form YASR will add the fields in order to enable your visitors to add their own reviews."
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:123
+msgid "If you choose \"Yes\" but want to exclude a specific post or page, just open the editor page and disable it. "
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:125
+msgid "Vice versa if you choose \"No\". "
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:134
+msgid "Should rating and title review be mandatory?"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:154
+msgid "Create Rich Snippet for comments?"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:190
+#, php-format
+msgid "%s votes, average: %s"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:195
+#, php-format
+msgid "(%s)"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:219
+msgid "Custom text to display in single post or page"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:227
+msgid "Custom text to display in archive pages"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-settings.php:236
+#, php-format
+msgid ""
+"You can use %s pattern to show the \n"
+"        total count, and %s pattern to show the average"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode-classes.php:16
+#: yasr-user-reviews/yasr-ur-shortcode.php:122
+msgid "Comment Reviews for this post are disabled. Please enable it first"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode.php:36
+msgid "stars"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode.php:100
+#: yasr-user-reviews/yasr-ur-shortcode.php:113
+msgid "star"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode.php:177
+#: yasr-user-reviews/yasr-ur-shortcode.php:207
+msgid "Total:"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode.php:177
+#: yasr-user-reviews/yasr-ur-shortcode.php:207
+msgid "Average"
+msgstr ""
+
+#: yasr-user-reviews/yasr-ur-shortcode.php:185
+#: yasr-user-reviews/yasr-ur-shortcode.php:217
+msgid "You've not enought data"
+msgstr ""
